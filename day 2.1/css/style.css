@@ -1,0 +1,12 @@
+.item {
+    background-color: tan;
+    width: 33%;
+    display: inline-block;
+}
+
+@media (max-width: 769px) {
+    .item{
+        max-width: 50%;
+    }
+
+}
